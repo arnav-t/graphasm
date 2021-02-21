@@ -54,6 +54,10 @@ export const Menu = ({ setGraph }) => {
               value: 'Edge List'
             },
             {
+              label: 'Weighted Edge List',
+              value: 'Weighted Edge List'
+            },
+            {
               label: 'Adjacency List',
               value: 'Adjacency List'
             },
